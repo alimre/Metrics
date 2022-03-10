@@ -1,0 +1,30 @@
+## Metrics Status
+---
+
+- [X] number_of_comm3nts
+- [X] number_of_comm1ts
+- [X] number_of_files
+- [ ] number_of_issue_comments
+- [ ] number_of_issue_events
+- [X] number_of_labels
+- [X] number_of_review_comm3nts
+- [ ] number_of_review_requests
+- [ ] number_of_reviewers
+- [X] number_of_additions
+- [X] closure_date
+- [X] creation_date
+- [X] number_of_deletions
+- [ ] locked_state
+- [ ] merged_state
+- [ ] merged_date
+- [ ] milestone_status
+- [ ] milestone_closure_date
+- [ ] number_of_milestone_closed_issues
+- [ ] milestone_creation_date
+- [ ] milestone_due_on_date
+- [ ] milestone_state
+- [X] pull_request_number
+- [X] pull_request_state
+- [X] update_date
+- [ ] number_of_participants
+- [ ] number_of_file_changes
