@@ -7,5 +7,4 @@
 * XGBoost Classifier
 * CatBoost Classifier
 
-The model can be found [here][https://duckduckgo.com](https://colab.research.google.com/drive/10QtuiFS4XH6p1Ev8zUt4P58YAsJwIjLk?usp=sharing).
-Here it is [Duck Duck Go](https://duckduckgo.com).
+The model can be found [here](https://colab.research.google.com/drive/10QtuiFS4XH6p1Ev8zUt4P58YAsJwIjLk?usp=sharing).
