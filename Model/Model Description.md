@@ -1,6 +1,6 @@
 # Model Description
 
-## Classification Models
+## CAPA Classification Models
 
 * Random Forest Classifier
 * XGBoost Classifier
