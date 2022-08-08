@@ -9,7 +9,9 @@
 
 * **Data Preparation**: The labels are encoded, the features to be used are set, the models to be trained are loaded, the dataset is split into train and test sets.
 
-* **Model Training**: The models are trained and their respective metrics are obtained (confusion matrix, accuracy, precision, recall and f1 scores).
+* **Model Training**: The models are trained. 
+
+* **Model Assessment**: The respective metrics are obtained (confusion matrix, accuracy, precision, recall and f1 scores).
 
 ## CAPA Classification 
 
@@ -19,5 +21,7 @@
 
 * **Data Preparation**: The labels are encoded, the features to be used are set, the models to be trained are loaded, the dataset is split into train and test sets as in the previous case.
 
-* **Model Training**: The models are trained and their respective metrics are obtained (confusion matrix, accuracy, precision, recall and f1 scores).
+* **Model Training**: The models are trained. 
+
+* **Model Assessment**: The respective metrics are obtained (confusion matrix, accuracy, precision, recall and f1 scores).
 
