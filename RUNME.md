@@ -15,7 +15,7 @@
 
 ## CAPA Classification 
 
-* **Preprocessing**: Load the [notebook](https://colab.research.google.com/drive/11imVJi9-O7OFrX1yJutDH3Brlkr5MOFC?usp=sharing) to check the procedure on how to the data was cleaned, prepared, and presented as the pair $(X,y)$ to train the model, 
+* **Preprocessing**: Load the [notebook](https://colab.research.google.com/drive/11imVJi9-O7OFrX1yJutDH3Brlkr5MOFC?usp=sharing) to check the procedure on how to the data was cleaned, prepared, and presented as the pair $(X,y)$ to train the model.
 
 * **Model Training**: Load the [notebook](https://colab.research.google.com/drive/1-QfY-rx7Hi1HP4vyngtcFv1_U8r-8cOa?usp=sharing) to obtain the pipeline to train the model, and to check its performance.
 
