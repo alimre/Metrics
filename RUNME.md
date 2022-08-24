@@ -15,7 +15,7 @@
 
 ## CAPA Classification 
 
-* **Preprocessing**: Load the [notebook]([https://www.genome.gov/](https://colab.research.google.com/drive/11imVJi9-O7OFrX1yJutDH3Brlkr5MOFC?usp=sharing))
+* **Preprocessing**: Load the [notebook](https://colab.research.google.com/drive/11imVJi9-O7OFrX1yJutDH3Brlkr5MOFC?usp=sharing)
 
 * **Data Loading**: We load the data labeled as CAPA. 
 
