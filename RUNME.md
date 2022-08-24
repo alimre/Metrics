@@ -15,6 +15,8 @@
 
 ## CAPA Classification 
 
+* **Preprocessing**: Load the [notebook]([https://www.genome.gov/](https://colab.research.google.com/drive/11imVJi9-O7OFrX1yJutDH3Brlkr5MOFC?usp=sharing))
+
 * **Data Loading**: We load the data labeled as CAPA. 
 
 * **Preprocessing**: The data has corrupted and/or missing values, we need to clean the data as we did in the previous case, also we need to set the correct format for all the elements entries (integer type, categorical values, timestamps, boolean values, etc).
